@@ -14,20 +14,14 @@ $estilo-nosotros: "Century Gothic",sans-serif;
 .tituloParrafo{
     margin: 0;
     padding: 0;
-    font-family: $estilo-nosotros;
-    position: absolute;
-    left: 43%;
-    top: 25%;  
+    font-family: $estilo-nosotros; 
+    margin-bottom: 1.2rem;
 }
 
 .parrafoNosotros{
     margin: 0;
     padding: 0;
     font-family: $estilo-nosotros;
-    position: absolute;
-    left: 43%;
-    right: 5%;
-    top: 40%;
 }
 
 .descripcionNosotros{
