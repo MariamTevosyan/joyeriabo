@@ -4,7 +4,7 @@ Desde hace más de 30 años diseñamos y creamos a mano piezas únicas de joyer�
 
 ## Sitio
 
-Para conocer más sobre nosotros y realizar tu pedido ingresá [acá]().
+Para conocer más sobre nosotros y realizar tu pedido ingresá [acá](https://mariamtevosyan.github.io/joyeriabo/).
 
 
 ## Paginas
