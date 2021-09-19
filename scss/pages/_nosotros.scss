@@ -1,0 +1,41 @@
+$ancho-nosotros: 40vw;
+$alto-nosotros: 75vh;
+$estilo-nosotros: "Century Gothic",sans-serif;
+
+
+.fotoNosotros{
+    width: $ancho-nosotros;
+    height: $alto-nosotros;
+    padding: 60px 30px;
+    padding-bottom: 30px;
+    position: relative;
+}
+
+.tituloParrafo{
+    margin: 0;
+    padding: 0;
+    font-family: $estilo-nosotros;
+    position: absolute;
+    left: 43%;
+    top: 25%;  
+}
+
+.parrafoNosotros{
+    margin: 0;
+    padding: 0;
+    font-family: $estilo-nosotros;
+    position: absolute;
+    left: 43%;
+    right: 5%;
+    top: 40%;
+}
+
+.descripcionNosotros{
+    margin: 0;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 10%;
+    padding-top: 2%;
+    font-family: $estilo-nosotros;
+
+}

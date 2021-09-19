@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.seccionGifts{
+  padding: 2rem 0 !important;
+}
+
+.gifts__bloque
+{
+margin: 10px 0;
+}
+ 
+.gifts__bloque .bloque_joya{
+   background-size: cover !important;
+   padding: 0 0 30px 0 !important;
+}     
+ 
+.gifts__bloque .bloque_joya .iconoJoya {
+       float: left;
+       width: 64px;
+       height: 64px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-direction: column;
+       text-align: center;
+       border-radius: 50%;
+       transition: all 0.3s ease-in-out;
+}
+ 
+.gifts__bloque .bloque_joya .iconoJoya{
+    
+       color:white;
+       font-size: 31px;
+}
+ 
+.gifts__bloque .bloque_joya .iconoJoya{
+  
+           font-size: 20px;
+           line-height: 1;
+           letter-spacing: normal;
+           text-transform: none;
+           display: inline-block;
+           white-space: nowrap;
+           word-wrap: normal;
+           direction: ltr;
+              
+           }
+    
+.gifts__bloque .bloque_joya .tituloGifts
+   {
+       margin-left: 80px;
+       font-weight: 600;
+       margin-bottom: 5px;
+       font-size: 18px;
+     }
+ 
+.tituloGifts .color{
+   color: white;
+   font-size: 1.2rem;
+ 
+}
+
+.grid{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 21px;
+  grid-template-areas: "item1 item2 item3 item4";                           
+  justify-content: center;
+  align-content: center;
+}
+
+.grid{
+  display: flex;
+  justify-content:space-evenly;
+  align-items: center;
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 3rem;
+}
+
+.item1{
+  grid-area: item1;
+}
+
+.item2{
+  grid-area: item2;
+}
+
+.item3{
+  grid-area: item3;
+}
+
+.item4{
+  grid-area: item4;
+}
+

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,YAAY,CAAA;EACR,OAAO,EAAE,SAAS;EAClB,gBAAgB,EAAC,OAAO;CAC3B;;AAED,AAAA,YAAY,CAAA;EACR,OAAO,EAAE,SAAS;EAClB,gBAAgB,EAAC,OAAO;CAC3B;;AAED,AAAA,eAAe,CAAA;EACX,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,IAAI;EACf,WAAW,EAhBG,gBAAgB,EAAC,UAAU;CAiB5C;;AAED,AAAA,YAAY,CAAA;EACR,aAAa,EAAE,iBAAiB;CACnC",
+    "sources": [
+        "../scss/componentes/formulario.scss"
+    ],
+    "names": [],
+    "file": "formulario.css"
+}

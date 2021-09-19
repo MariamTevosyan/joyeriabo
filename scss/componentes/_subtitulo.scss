@@ -1,0 +1,40 @@
+$new-arrivals: #e8e8e4;
+$estilo: "Century Gothic",sans-serif;
+
+
+.articulo__sub{
+    background-color: $new-arrivals;
+
+
+    &--fonts{
+
+        margin-top: 50px;
+        font: 
+            {
+                size: large;
+                family: 'Courier New', Courier, monospace;
+                weight: bolder;
+        }
+        text: 
+            {
+                align: center;
+            }
+    }    
+}
+
+.pArrivals{
+    font: 
+            {
+                size: 1.7rem;
+                family: 'Courier New', Courier, monospace;
+                weight: bolder;
+        }
+}
+
+/*Subtítulo carrito*/
+
+.subCarrito{
+    text-align: center;
+    font-family: $estilo;
+    margin-top: 1.5rem;
+}

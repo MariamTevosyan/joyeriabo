@@ -1,0 +1,20 @@
+.botonEnviar {
+  padding: 15px 40px;
+  background-color: #ab0000;
+}
+
+.botonBorrar {
+  padding: 15px 40px;
+  background-color: #726c6c;
+}
+
+.tituloContacto {
+  text-align: center;
+  font-size: 2rem;
+  font-family: "Century Gothic", sans-serif;
+}
+
+.formFormato {
+  margin-bottom: 1.5rem !important;
+}
+/*# sourceMappingURL=formulario.css.map */

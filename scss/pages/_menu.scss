@@ -1,0 +1,19 @@
+$letra: 20px; 
+$color:maroon;
+$estilo: "Century Gothic",sans-serif;
+
+
+.tituloIndex {
+   text-align: center;
+   color: $color;
+   padding: 10px 10px;
+   font-size: $letra;
+   font-family: $estilo;
+ }
+
+ .border-color{
+    border-bottom: 1px solid $color;
+ }
+
+
+

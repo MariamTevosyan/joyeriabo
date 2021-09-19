@@ -1,0 +1,70 @@
+$color-footer: #323031;
+$estilo-footer: "Century Gothic",sans-serif;
+
+.footer_padding{
+   padding: 0 !important;
+   background-color: $color-footer;
+}
+
+
+.footer__formato{
+   text-align:center;
+   font-family: $estilo-footer; 
+   .colorLi 
+   {
+       .li__color{
+           background-color: $color-footer;
+           color: white;
+           font-size: 1.2rem;
+       }
+
+   }
+
+
+}
+
+.footerContenedor ul{
+   list-style: none;
+   padding: 0;
+   margin-top: 15px;
+}
+
+.footerContenedor li{
+   display: inline-block;
+   margin: 0 20px;
+}
+
+.footerContenedor a{
+   text-decoration: none;
+   display: block;
+   width: 50px;
+   font-size: 10px;
+   color: black;
+
+}
+
+.contenedor-footer{
+   background-color: $color-footer;
+   color: black;
+   margin:auto;
+   display: flex;
+   width: 300%;
+   padding: 15px;
+ }
+
+ .footerIframe{
+    padding: 10px 0;
+    color: white;
+    text-align: center;
+    font-family: $estilo-footer;
+ }
+
+ address{
+    padding-top: 3px;
+    color: white;
+ }
+
+ small{
+    color: white;
+ }
+

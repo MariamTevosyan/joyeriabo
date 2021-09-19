@@ -1,0 +1,212 @@
+@charset "UTF-8";
+.tituloIndex {
+  text-align: center;
+  color: maroon;
+  padding: 10px 10px;
+  font-size: 20px;
+  font-family: "Century Gothic", sans-serif;
+}
+
+.border-color {
+  border-bottom: 1px solid maroon;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.imagenIndex {
+  padding-bottom: 100px;
+  padding-top: 20px;
+}
+
+.infoIndex {
+  width: 100%;
+  height: 20%;
+  background-color: #ab0000;
+  color: white;
+  padding: 20px;
+  font-family: "Century Gothic", sans-serif;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.formatoRed {
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+.articulo__sub {
+  background-color: #e8e8e4;
+}
+
+.articulo__sub--fonts {
+  margin-top: 50px;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.pArrivals {
+  font-size: 1.7rem;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+}
+
+/*Subtítulo carrito*/
+.subCarrito {
+  text-align: center;
+  font-family: "Century Gothic", sans-serif;
+  margin-top: 1.5rem;
+}
+
+.footer_padding {
+  padding: 0 !important;
+  background-color: #323031;
+}
+
+.footer__formato {
+  text-align: center;
+  font-family: "Century Gothic", sans-serif;
+}
+
+.footer__formato .colorLi .li__color {
+  background-color: #323031;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.footerContenedor ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 15px;
+}
+
+.footerContenedor li {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.footerContenedor a {
+  text-decoration: none;
+  display: block;
+  width: 50px;
+  font-size: 10px;
+  color: black;
+}
+
+.contenedor-footer {
+  background-color: #323031;
+  color: black;
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 300%;
+  padding: 15px;
+}
+
+.footerIframe {
+  padding: 10px 0;
+  color: white;
+  text-align: center;
+  font-family: "Century Gothic", sans-serif;
+}
+
+address {
+  padding-top: 3px;
+  color: white;
+}
+
+small {
+  color: white;
+}
+
+.fotoNosotros {
+  width: 40vw;
+  height: 75vh;
+  padding: 60px 30px;
+  padding-bottom: 30px;
+  position: relative;
+}
+
+.tituloParrafo {
+  margin: 0;
+  padding: 0;
+  font-family: "Century Gothic", sans-serif;
+  position: absolute;
+  left: 43%;
+  top: 25%;
+}
+
+.parrafoNosotros {
+  margin: 0;
+  padding: 0;
+  font-family: "Century Gothic", sans-serif;
+  position: absolute;
+  left: 43%;
+  right: 5%;
+  top: 40%;
+}
+
+.descripcionNosotros {
+  margin: 0;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 10%;
+  padding-top: 2%;
+  font-family: "Century Gothic", sans-serif;
+}
+
+.seccionUbicacion {
+  padding: 0 !important;
+  margin: 1rem;
+}
+
+.divUbicacion {
+  width: 100%;
+}
+
+.tituloUbicacion {
+  font-size: 1.5rem;
+  font-family: "Century Gothic",sans-serif;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.botonEnviar {
+  padding: 15px 40px;
+  background-color: #ab0000;
+}
+
+.botonBorrar {
+  padding: 15px 40px;
+  background-color: #726c6c;
+}
+
+.tituloContacto {
+  text-align: center;
+  font-size: 2rem;
+  font-family: "Century Gothic", sans-serif;
+}
+
+.formFormato {
+  margin-bottom: 1.5rem !important;
+}
+
+.botonCompra {
+  background-color: #ab0000;
+  color: white;
+  font-weight: 700;
+}
+
+.botonSalir {
+  background-color: #363232;
+  color: white;
+  font-weight: 700;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,22 @@
+$estilo-contacto: "Century Gothic",sans-serif;
+
+
+.botonEnviar{
+    padding: 15px 40px;
+    background-color:#ab0000;
+}
+
+.botonBorrar{
+    padding: 15px 40px;
+    background-color:#726c6c;
+}
+
+.tituloContacto{
+    text-align: center;
+    font-size: 2rem;
+    font-family: $estilo-contacto;
+}
+
+.formFormato{
+    margin-bottom: 1.5rem !important;
+}
